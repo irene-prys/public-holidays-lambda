@@ -5,3 +5,4 @@ Lambda for Alexa skill. Returns holidays for a certain month.
 To build the project run the command: 
 > mvn package
 
+upload the jar to the aws into your lambda; 
